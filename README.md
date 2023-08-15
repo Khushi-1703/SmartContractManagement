@@ -1,7 +1,7 @@
 # Smart Contract Management
 
-**Respected Metacrafters team,
-I've made changes in the format of the frontend of the project...**
+***Respected Metacrafters team,
+I've made changes in the format of the frontend of the project...***
 
 For this project, we needed to create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application(Ethereum Smart Contract and React DApp)
 
